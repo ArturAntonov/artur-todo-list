@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import { Provider } from "react-redux";
 import { CssBaseline } from "@mui/material";
-import App from "./App";
+import {App} from "./App";
 import ReactDOM from "react-dom";
 import { store } from "./redux/store";
 
